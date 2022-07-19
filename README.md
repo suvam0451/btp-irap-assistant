@@ -2,6 +2,10 @@
 
 I created an Excel GUI for iRAP analysts (in my institute and sister institutes) to easily record observations from video. This was my first B.Tech project, completed over a period of three academic months.
 
+The bottom right GUI was my contribution.
+
+![Bottom Right](./Assets//Picture.png)
+
 ### About
 
 The **The International Road Assessment Programme (iRAP)** is a charity organization that focuses on road safety.
